@@ -1,0 +1,52 @@
+---
+title: "Informe_2"
+author: "Rick"
+format:
+  html:
+    toc: true
+    toc-location: left
+---
+
+Análisis de Regresion Obesidad vs consumo de redes sociales.
+
+## Librerías
+```{r}
+#| message: false
+#| warning: false
+# Principales
+library(tidyverse)
+library(magrittr)
+
+# Gráficos
+library(ggdark)
+
+#Datos
+library(palmerpenguins)
+```
+
+### Directorios
+```{r}
+#| eval: false
+#| include: false
+getwd()
+dir()
+dir.create("Rdownloads")
+file.create("main.R")
+```
+
+### Cargar Data
+```{r}
+
+```
+
+
+## Data Clean
+```{r}
+
+```
+
+
+## Análisis
+
+## Conlusiones
+
